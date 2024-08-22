@@ -1,10 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15567914&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
-
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Is a system approach to maintain,operate,design and develope siftware. it involves various aspects such as project managenet , requirement analyses,coding, software architecture and deployment. software engineers empoly principles from engineersing and computer science to create a softeare that is reliable, efficient and scalable. software engineering proves a way to manage resources, schedule and budget of the project and to ensure that the team is working together effectively and efficiently.
 The importance of of software engineering in technology industry 1. Systematic Approach: Software engineering provides a structured methodology to software development, ensuring consistency and addressing complexities inherent in large-scale applications.
 2. Quality Assurance: Through rigorous testing and validation processes, software engineering ensures that software products meet quality standards and perform as expected. This reduces errors and minimizes the cost of fixing bugs after deployment.
@@ -94,7 +94,6 @@ Roles and Responsibilities:
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Software engineers often encounter various challenges throughout their work. Here are some common challenges along with strategies to overcome them:
 Common Challenges
@@ -147,6 +146,7 @@ Importance of Prompt Engineering:
 7. Customization: Through prompt engineering, users can tailor the interaction to their specific audience or purpose, allowing for a more personalized experience.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Research Evaluation Techniques: Research techniques for evaluating the quality of prompts and the outputs they generate. This could include criteria like clarity, specificity, bias, coherence, relevance or usefulness of the output, etc.
 Choose an Approach: Select a prompt you created from yesterday’s task. Evaluate it using the criteria/techniques you discovered. Identify areas where the prompt or its output could be strengthened.
 Apply and Share: Apply the chosen approach to improve either the prompt or its output. Share both the original and improved versions, along with an explanation of how you evaluated and refined them in reply to this post. Summarise the differences you observed.
